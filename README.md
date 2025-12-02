@@ -2,15 +2,7 @@
 Panel administrativo para gestionar productos de la marca IKENOBO.  
 Incluye autenticación JWT, CRUD de productos y base de datos en Firebase Firestore.
 
----
-
 ## 🚀 Tecnologías utilizadas
-
-### **Frontend**
-- HTML5 + CSS3
-- Bootstrap 5.3
-- JavaScript Vanilla (Fetch API)
-- Deploy recomendado: Vercel
 
 ### **Backend**
 - Node.js + Express
@@ -23,8 +15,6 @@ Incluye autenticación JWT, CRUD de productos y base de datos en Firebase Firest
 - Firebase Firestore
   - IDs autogenerados
   - Operaciones CRUD completas
-
----
 
 ## 🔐 Autenticación con JWT
 
