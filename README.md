@@ -72,9 +72,9 @@ Ese token es requerido para crear o eliminar productos.
 
 Ejemplo del header de autorización:
 
-```json
+
 Authorization: Bearer <token>
-```
+
 
 ## 🧪 Estado actual del proyecto
 
