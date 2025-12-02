@@ -73,7 +73,7 @@ Ese token es requerido para crear o eliminar productos.
 Ejemplo del header de autorización:
 
 
-Authorization: Bearer <token>
+| Authorization: Bearer <token> |
 
 
 ## 🧪 Estado actual del proyecto
