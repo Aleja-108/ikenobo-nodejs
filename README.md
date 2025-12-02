@@ -9,7 +9,7 @@ Incluye autenticación JWT, CRUD de productos y base de datos en Firebase Firest
 - CORS configurado
 - Middleware de autenticación JWT
 - Rutas modularizadas (Auth / Products)
-- Deploy recomendado: Render o Railway
+- Deploy: Vercel
 
 ### **Base de datos**
 - Firebase Firestore
@@ -53,7 +53,6 @@ Ese token es requerido para crear o eliminar productos.
 - Soporte para subir imágenes  
 - Vista pública del catálogo  
 
----
 
 ## 🔐 Rutas de la API
 
@@ -77,7 +76,6 @@ Ejemplo del header de autorización:
 Authorization: Bearer <token>
 ```
 
-
 ## 🧪 Estado actual del proyecto
 
 | Funcionalidad | Estado |
@@ -91,9 +89,9 @@ Authorization: Bearer <token>
 | Imagen opcional | ➖ Pendiente |
 | Vista pública de catálogo | ➖ Pendiente |
 
----
 
 ## 📌 Próximas mejoras sugeridas
+- Frontend
 - Upload de imágenes a Firebase Storage  
 - Vista previa del producto  
 - Diseño responsive avanzado  
